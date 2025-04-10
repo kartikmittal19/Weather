@@ -16,11 +16,4 @@ This is a web app developed as a final project for SheCodes React using React.js
 - JavaScript
 - VS Code
 - SheCodes Weather API
-
-**Demo**
-
-A live demo of the React Weather App is available here: https://weather-app-project-tania.netlify.app/.
-
-**Credits**
-- The weather app was created by Tânia Pinto.
-- The app uses the SheCodes Weather API to retrieve weather data.
+  
